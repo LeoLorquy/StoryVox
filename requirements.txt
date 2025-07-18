@@ -1,0 +1,4 @@
+vosk
+pyaudio
+aiohttp
+python-dotenv
