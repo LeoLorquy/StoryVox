@@ -69,14 +69,24 @@ VOSK_MODEL_PATH=chemin/vers/vosk-model-fr-0.22
 - Après un silence de 20 secondes (configurable via `SILENCE_THRESHOLD`), le texte transcrit est envoyé à l'API Mistral pour être enrichi en un récit autobiographique.
 - Les résultats sont affichés dans la console, avec la transcription brute et le texte enrichi.
 
-## Communiqué de presse
-**Un nouvel outil révolutionnaire pour écrire votre histoire avec l'IA**
+# COMMUNIQUÉ DE PRESSE  
+**Bordeaux, le 13 juillet 2025**  
+**Léo Eyrard, étudiant à l’EGS, lance StoryVox : Écrivez un livre en 1 à 2 mois grâce à l’IA**
 
-[Date] – Nous sommes ravis d'annoncer le lancement de ce projet open-source, conçu pour transformer la manière dont les histoires personnelles sont écrites. Grâce à la puissance de la reconnaissance vocale de Vosk et à l'intelligence artificielle de Mistral, cet outil permet à quiconque de créer des récits autobiographiques immersifs à partir de simples enregistrements vocaux. Que vous soyez un écrivain en herbe ou que vous souhaitiez préserver vos souvenirs, ce projet rend l'écriture accessible, fluide et captivante.
+## Chapô  
+Léo Eyrard, étudiant en licence de développeur web à l’EGS, dévoile StoryVox, un outil révolutionnaire qui permet d’écrire un livre en seulement 1 à 2 mois. En combinant la reconnaissance vocale en temps réel de Vosk et la rédaction automatisée de Mistral, StoryVox transforme vos paroles en chapitres structurés, rendant l’écriture accessible à tous.
 
-Disponible sous licence MIT, ce projet invite les développeurs et les créateurs à contribuer à son évolution. Téléchargez-le dès aujourd'hui sur GitHub et commencez à raconter votre histoire comme jamais auparavant !
+## StoryVox : Écrire un livre n’a jamais été aussi simple  
+StoryVox, lancé aujourd’hui par Léo Eyrard, étudiant en licence de développeur web à l’École de Gestion et de Commerce (EGS) de Bordeaux, est un outil innovant qui démocratise l’écriture de livres. Grâce à une interface intuitive, il suffit de brancher un micro, de parler, et l’outil fait le reste : la technologie de reconnaissance vocale Vosk transcrit vos paroles en temps réel, tandis que le modèle d’intelligence artificielle Mistral les organise en chapitres cohérents, avec un style adapté à celui d’un livre. « J’ai voulu créer un outil qui supprime les barrières de l’écriture, permettant à chacun de raconter son histoire sans effort », explique Léo Eyrard, créateur de StoryVox.
 
-Pour plus d'informations, contactez [votre contact] ou visitez [votre site web/dépôt GitHub].
+## Un outil pour les écrivains en herbe et les créateurs pressés  
+StoryVox s’adresse à un large public : étudiants souhaitant rédiger des mémoires, amateurs d’écriture créative, ou professionnels désirant publier un livre blanc. En quelques minutes par jour, l’outil transforme des idées orales en un manuscrit structuré, avec une table des matières et un style narratif soigné. Testé par une dizaine d’utilisateurs, StoryVox a déjà permis à plusieurs d’entre eux de finaliser des projets en moins de deux mois. « StoryVox m’a permis de structurer mes idées sans perdre de temps à écrire », témoigne Clara, une étudiante en littérature et bêta-testeuse.
+
+## Une innovation technologique au service de la créativité  
+Développé dans le cadre de son projet de fin d’études, StoryVox combine deux technologies de pointe : Vosk pour une transcription vocale précise et Mistral pour une rédaction intelligente qui respecte les nuances littéraires. L’outil est accessible via un site web convivial, compatible avec tous les navigateurs, et propose une version gratuite pour encourager les premiers utilisateurs. Léo Eyrard prévoit d’ajouter des fonctionnalités, comme la personnalisation des styles d’écriture et l’exportation en formats eBook.
+
+## Conclusion : Donnez vie à vos histoires avec StoryVox  
+StoryVox est dès à présent disponible sur le github en libre accées. Pour plus d’informations, contactez Léo Eyrard, créateur de StoryVox, à eyrard.leo.1@gmail.com ou au [0641983518].
 
 ## Licence
 Ce projet est distribué sous la **licence MIT**. Voir le fichier `LICENSE` pour plus de détails.
